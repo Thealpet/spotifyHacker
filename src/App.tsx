@@ -46,7 +46,7 @@ const App: React.FC = () => {
   <div className="App">
       {!token ? (
         <a className="btn btn-primary" href={loginUrl}>
-          Login to Spotify
+          Login to Spotifyyy
         </a>
       ) : (
         <div>
